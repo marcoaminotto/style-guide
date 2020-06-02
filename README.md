@@ -13,3 +13,9 @@ This small project was created with the aim to learn and pratice the [Airbnb Jav
 * Open the folder style-guide in your system's shell.
 * Run `$ yarn install` to install the modules of this React project.
 * Run `$ yarn start` to start the frontend server.
+
+#
+
+<p align="center">
+   <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
+</p>
